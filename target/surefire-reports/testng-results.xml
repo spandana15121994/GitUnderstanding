@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-25T09:47:06Z" name="Suite" finished-at="2020-05-25T09:49:09Z" duration-ms="123414">
+    <groups>
+    </groups>
+    <test started-at="2020-05-25T09:47:06Z" name="Test" finished-at="2020-05-25T09:49:09Z" duration-ms="123414">
+      <class name="Way2Automation.Way2AutomationE2E.TestAutomation">
+        <test-method signature="a_testRegistration()[pri:0, instance:Way2Automation.Way2AutomationE2E.TestAutomation@68759011]" started-at="2020-05-25T09:47:06Z" name="a_testRegistration" finished-at="2020-05-25T09:48:12Z" duration-ms="66461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_testRegistration -->
+        <test-method signature="b_dropdownFunctionality()[pri:0, instance:Way2Automation.Way2AutomationE2E.TestAutomation@68759011]" started-at="2020-05-25T09:48:12Z" name="b_dropdownFunctionality" finished-at="2020-05-25T09:49:08Z" duration-ms="55262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_dropdownFunctionality -->
+        <test-method signature="c_testInteraction()[pri:0, instance:Way2Automation.Way2AutomationE2E.TestAutomation@68759011]" started-at="2020-05-25T09:49:08Z" name="c_testInteraction" finished-at="2020-05-25T09:49:09Z" duration-ms="1645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_testInteraction -->
+      </class> <!-- Way2Automation.Way2AutomationE2E.TestAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="320682" started-at="2020-05-22T08:18:31Z" finished-at="2020-05-22T08:23:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="320682" started-at="2020-05-22T08:18:31Z" finished-at="2020-05-22T08:23:52Z">
+      <class name="Way2Automation.Way2AutomationE2E.TestAutomation">
+        <test-method status="PASS" signature="testRegistration()[pri:0, instance:Way2Automation.Way2AutomationE2E.TestAutomation@35229f85]" name="testRegistration" duration-ms="236518" started-at="2020-05-22T08:18:31Z" finished-at="2020-05-22T08:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method status="PASS" signature="xdropdownFunctionality()[pri:0, instance:Way2Automation.Way2AutomationE2E.TestAutomation@35229f85]" name="xdropdownFunctionality" duration-ms="33245" started-at="2020-05-22T08:22:42Z" finished-at="2020-05-22T08:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xdropdownFunctionality -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Way2Automation.Way2AutomationE2E.TestAutomation@35229f85]" name="tearDown" is-config="true" duration-ms="2807" started-at="2020-05-22T08:24:24Z" finished-at="2020-05-22T08:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Way2Automation.Way2AutomationE2E.TestAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

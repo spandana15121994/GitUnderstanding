@@ -1,0 +1,5 @@
+com\PageObjects\Dropdown.class
+com\PageObjects\Interaction.class
+Way2Automation\Way2AutomationE2E\App.class
+resources\Base.class
+com\PageObjects\Registration.class
