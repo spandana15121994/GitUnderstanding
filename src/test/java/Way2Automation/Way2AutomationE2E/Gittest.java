@@ -11,5 +11,13 @@ public class Gittest {
 		System.out.println("mobile automation");
 		System.out.println("git understanding");
 	}
+	
+	@Test
+	public void appium()
+	{
+		System.out.println("mobile automation");
+		System.out.println("android os automation");
+		System.out.println("IOS automation");
+	}
 
 }
