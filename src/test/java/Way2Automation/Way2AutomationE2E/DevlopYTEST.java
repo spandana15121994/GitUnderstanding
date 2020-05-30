@@ -20,5 +20,13 @@ public class DevlopYTEST {
 		System.out.println("IOS automation");
 	}
 
+	@Test
+	public void finalChanges()
+	{
+		System.out.println("aaaa");
+		System.out.println("bbbb");
+		System.out.println("cccc");
+	}
+
 
 }

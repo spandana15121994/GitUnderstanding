@@ -20,10 +20,7 @@ public class Gittest {
 		System.out.println("IOS automation");
 	}
 
-<<<<<<< HEAD
-	
 
-=======
 	@Test
 	public void restAPI()
 	{
@@ -45,6 +42,6 @@ public class Gittest {
 		System.out.println("mobile automation");
 		System.out.println("android os automation");
 		System.out.println("IOS automation");
+	
 	}
->>>>>>> developY
 }
