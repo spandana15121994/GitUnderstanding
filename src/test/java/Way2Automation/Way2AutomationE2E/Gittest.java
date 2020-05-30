@@ -20,4 +20,20 @@ public class Gittest {
 		System.out.println("IOS automation");
 	}
 
+	@Test
+	public void restAPI()
+	{
+		System.out.println("mobile automation");
+		System.out.println("android os automation");
+		System.out.println("IOS automation");
+	}
+
+	
+	@Test
+	public void postJira()
+	{
+		System.out.println("mobile automation");
+		System.out.println("android os automation");
+		System.out.println("IOS automation");
+	}
 }
